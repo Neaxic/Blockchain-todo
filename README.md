@@ -1,16 +1,16 @@
 # Blockchain-todo
 A blockchain todo app.
-Project includs 
-# 1. Smart Contract, itializing and migration. 
-# 2. A basic website looking at the blockchain data.
-# 3. A wallet (MetaMask) connected to the website - Identitfy users.
+## Project includs 
+#### 1. Smart Contract, itializing and migration. 
+#### 2. A basic website looking at the blockchain data.
+#### 3. A wallet (MetaMask) connected to the website - Identitfy users.
 
 
 ## How to build.
 
 # Dependencies 
 
-# SOURCES
+# Sources
 https://github.com/trufflesuite/truffle
 https://github.com/trufflesuite/ganache-ui
 
