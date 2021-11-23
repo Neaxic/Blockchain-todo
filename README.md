@@ -7,11 +7,6 @@ SRC still gives a understanding about Smart contracts, wallets & general web3 im
 #### 2. A basic website looking at the blockchain data.
 #### 3. A wallet (MetaMask) connected to the website - Identitfy users.
 
-
-## How to build.
-
-# Dependencies 
-
 # Sources
 https://github.com/trufflesuite/truffle
 https://github.com/trufflesuite/ganache-ui
