@@ -1,5 +1,7 @@
 # Blockchain-todo
-A blockchain todo app.
+A blockchain todo app - Project discontinued due to being outupdated.
+SRC still gives a understanding about Smart contracts, wallets & general web3 implementation.
+
 ## Project includs 
 #### 1. Smart Contract, itializing and migration. 
 #### 2. A basic website looking at the blockchain data.
