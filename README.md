@@ -5,7 +5,7 @@ SRC still gives a understanding about Smart contracts, wallets & general web3 im
 ## Project includs 
 #### 1. Smart Contract, itializing and migration. 
 #### 2. A basic website looking at the blockchain data.
-#### 3. A wallet (MetaMask) connected to the website - Identitfy users.
+#### 3. A wallet (MetaMask) connected to the website - Identitfy users..
 
 # Sources
 https://github.com/trufflesuite/truffle
